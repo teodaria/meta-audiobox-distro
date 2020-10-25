@@ -8,7 +8,6 @@ inherit core-image
 IMAGE_INSTALL += "alsa-lib"
 IMAGE_INSTALL += "alsa-utils-aconnect alsa-utils-alsamixer alsa-utils-alsactl alsa-utils-aplay alsa-utils-amixer alsa-utils"
 IMAGE_INSTALL += "jack-server"
-IMAGE_INSTALL += "jack-init"
 IMAGE_INSTALL += "qjackctl"
 IMAGE_INSTALL += "calf"
 IMAGE_INSTALL += "guitarix"
